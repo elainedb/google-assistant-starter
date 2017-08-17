@@ -1,6 +1,6 @@
 # Google Assistant Starter
 
-1) Download or clone Facts about Google
+## 1) Download or clone Facts about Google
 ---
 
  https://github.com/actions-on-google/apiai-facts-about-google-nodejs
